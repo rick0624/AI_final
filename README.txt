@@ -1,6 +1,6 @@
 # AI_final
-python patch version not limit
- package need 
+python 3.8.8
+Jupyter notebook 6.3.0 
  pandas  
  numpy  
  keras 
